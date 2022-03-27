@@ -45,8 +45,8 @@
 ✔️ Projects \
 ✔️ Skills \
 ✔️ Resume\
+✔️ Extracurriculars\
 ✔️ Contact Info
-
 
 
 ## Tools Used 🛠️
