@@ -38,9 +38,8 @@
 
 ## Sections 📚
 ✔️ About\
-✔️ Interests\
 ✔️ Education\
-✔️ Online Certification\
+✔️ Awards & Certification\
 ✔️ Experience\
 ✔️ Projects \
 ✔️ Skills \
